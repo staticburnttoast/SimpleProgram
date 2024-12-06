@@ -1,0 +1,2 @@
+This is a simple program using OpenAI's Whisper AI that I used to transcribe .wav files that had a Japanese speaker. While I will not reveal the purpose as it is related to a personal project, I used this a lot because I was dealing with a lot of files.
+All you need to do is set your own API Key (because you should never share your own on GitHub) and copy the path of your .wav file (I think other files types are supported such as .mp4) and then run the program.
